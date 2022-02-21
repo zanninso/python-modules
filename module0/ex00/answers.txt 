@@ -1,0 +1,9 @@
+pip3 list
+
+pip3 list
+
+pip3 show numpy
+
+pip3 search tesseract
+
+pip3 freeze > requirements.txt
